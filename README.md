@@ -1,8 +1,8 @@
 # 🌸 Iris Classification using Machine Learning
 
 ## 📌 Project Overview
-This project is based on the famous Iris dataset. The goal is to train multiple machine learning algorithms and compare their performance.
 
+This project is based on the famous Iris dataset. The goal is to train multiple machine learning algorithms, compare their performance, and implement Spark/QueTech Task 4 for scalable data processing."
 We implemented:
 - K-Nearest Neighbors (KNN)
 - Decision Tree
